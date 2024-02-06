@@ -1,0 +1,27 @@
+/* custom.css */
+
+/* Use a custom font for the title */
+.title {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Add some margin and padding to the skills section */
+.skills {
+    margin-top: 50px;
+    padding: 50px 0;
+}
+
+/* Add some box-shadow and border-radius to the skills-content div */
+.skills-content {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Use media queries to make the layout responsive */
+@media (max-width: 768px) {
+    /* Reduce the font size of the title on small screens */
+    .title {
+        font-size: 24px;
+    }
+}
