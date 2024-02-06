@@ -1,11 +1,11 @@
 # Weather
 
-This Weather App provides real-time weather information, air quality data, location details, and a map for a given city.
-The app integrates OpenWeatherAPI, Mapbox, Air Quality Open Data Platform (AQODP) and a Rapid Geolocation API to enhance its functionality.
+This Weather App provides real-time weather information for a chosen city.
+The app integrates OpenWeatherAPI to enhance its functionality.
 
 ## Usage
 
-Once you download the project go to terminal in your IDE and run this command "**_node server.js_**" and open this link **_http://localhost:3000_**. 
+Once you download the project go to terminal in your IDE and run this command "**_node src/index.js_**" and open this link **_http://localhost:3000_**. 
 
 ## Features
 
@@ -38,7 +38,7 @@ Once you download the project go to terminal in your IDE and run this command "*
 │   │   ├── login.ejs
 │   │   ├── script.js
 │   │   ├── signup.ejs
-│   ├── .gitignore
+│   ├── .gitattributes
 │   ├── README.md
 │   ├── package-lock.json
 │   ├── package.json
