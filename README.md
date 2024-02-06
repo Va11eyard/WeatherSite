@@ -30,10 +30,6 @@ Once you download the project go to terminal in your IDE and run this command "*
 │   │   ├── header.css
 │   │   ├── main.css
 │   │   ├── style.css
-│   ├── .gitignore
-│   ├── README.md
-│   ├── package-lock.json
-│   ├── package.json
 │   ├── src/
 │   │   ├── config.js
 │   │   ├── index.js
@@ -42,6 +38,10 @@ Once you download the project go to terminal in your IDE and run this command "*
 │   │   ├── login.ejs
 │   │   ├── script.js
 │   │   ├── signup.ejs
+│   ├── .gitignore
+│   ├── README.md
+│   ├── package-lock.json
+│   ├── package.json
 ```
 
     
